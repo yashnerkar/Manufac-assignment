@@ -30,7 +30,8 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Screenshots
+<br>
 
-![Scatter plot]('/screenshots/1.jpg')
-
-![Bar Graph]('/screenshots/2.jpg')
+  <p class="align-center">
+  <img src="./Screenshots/1.jpg">
+  </p>
