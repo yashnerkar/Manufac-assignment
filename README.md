@@ -31,6 +31,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Screenshots
 
-![Scatter plot]('./screenshots/1.jpg')
+![Scatter plot]('screenshots\1.jpg')
 
-![Scatter plot]('./screenshots/2.jpg')
+![Scatter plot]('screenshots\2.jpg')
