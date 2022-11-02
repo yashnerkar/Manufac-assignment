@@ -33,5 +33,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 <br>
 
   <p class="align-center">
-  <img src="./Screenshots/1.jpg">
+  <img src="./screenshots/1.jpg">
   </p>
