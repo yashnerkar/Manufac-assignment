@@ -35,3 +35,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
   <p class="align-center">
   <img src="./screenshots/1.jpg">
   </p>
+  <br>
+
+  <p class="align-center">
+  <img src="./screenshots/2.jpg">
+  </p>
